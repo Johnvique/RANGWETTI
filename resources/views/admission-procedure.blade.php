@@ -100,56 +100,6 @@
                     </div>
                 </div>
 
-
-                <!-- ========== Icon Boxes ========== -->
-                <div class="col-12">
-                    <div class="elements-title mb-50">
-                        <span>The Best</span>
-                        <h2>Icon Boxes</h2>
-                    </div>
-                </div>
-
-                <div class="col-12">
-                    <div class="row">
-
-                        <!-- Single Course Area -->
-                        <div class="col-12 col-lg-4">
-                            <div class="single-course-area d-flex align-items-center mb-100">
-                                <div class="course-icon">
-                                    <i class="icon-id-card"></i>
-                                </div>
-                                <div class="course-content">
-                                    <h4>Business School</h4>
-                                    <p>Cras vitae turpis lacinia, lacinia la cus non, fermentum nisi.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Course Area -->
-                        <div class="col-12 col-lg-4">
-                            <div class="single-course-area d-flex align-items-center mb-100">
-                                <div class="course-icon">
-                                    <i class="icon-worldwide"></i>
-                                </div>
-                                <div class="course-content">
-                                    <h4>Marketing</h4>
-                                    <p>Lacinia, lacinia la cus non, fermen tum nisi.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!-- Single Course Area -->
-                        <div class="col-12 col-lg-4">
-                            <div class="single-course-area d-flex align-items-center mb-100">
-                                <div class="course-icon">
-                                    <i class="icon-map"></i>
-                                </div>
-                                <div class="course-content">
-                                    <h4>Photography</h4>
-                                    <p>Cras vitae turpis lacinia, lacinia la cus non, fermentum nisi.</p>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

@@ -60,10 +60,12 @@
                                                      document.getElementById('logout-form').submit();">
                                         {{ __('Logout') }}
                                     </a>
-
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
                                         @csrf
                                     </form>
+                                    <button class="btn btn-secondary"><a href="{{url('/')}}"><span style="color:#FFFFFF">Back to Site</span></a></button>
+                                    
+                                    
                                 </div>
                             </li>
                         @endguest

@@ -62,8 +62,8 @@
                         </div>
                         <!-- Meta Info -->
                         <div class="teachers-info mt-30">
-                            <h5>Maria D. Smith</h5>
-                            <span>Marketing Proffesor</span>
+                            <h5>Miss Madam</h5>
+                            <span>School Principle</span>
                         </div>
                     </div>
                 </div>
@@ -76,8 +76,8 @@
                         </div>
                         <!-- Meta Info -->
                         <div class="teachers-info mt-30">
-                            <h5>Simon Duval</h5>
-                            <span>Digital Proffesor</span>
+                            <h5>Mr Kennedy</h5>
+                            <span>College Bursar</span>
                         </div>
                     </div>
                 </div>
@@ -90,8 +90,8 @@
                         </div>
                         <!-- Meta Info -->
                         <div class="teachers-info mt-30">
-                            <h5>James Hogan</h5>
-                            <span>HTML Proffesor</span>
+                            <h5>Dr James</h5>
+                            <span>ICT Manager</span>
                         </div>
                     </div>
                 </div>
@@ -104,8 +104,8 @@
                         </div>
                         <!-- Meta Info -->
                         <div class="teachers-info mt-30">
-                            <h5>Claudia Williams</h5>
-                            <span>Marketing Proffesor</span>
+                            <h5>Madam Claudia</h5>
+                            <span>Head of Engineering</span>
                         </div>
                     </div>
                 </div>

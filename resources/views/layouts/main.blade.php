@@ -37,7 +37,7 @@
                             <span><a href="{{url('/')}}"><h5 style="color: green;">RANGWE TECHNICAL <br>TRAINING INSTITUTE</h5></a></span>
                             </div>
                             <div class="login-content">
-                                <a href="{{url('/login')}}">Register / Login</a>
+                                <button class="btn btn-success btn-sm"><a class="fa fa-lock" href="{{url('/login')}}">Login</a></button>
                             </div>
                         </div>
                     </div>
@@ -73,26 +73,16 @@
                                         <ul class="dropdown">
                                             <li><a href="{{url('/college-history')}}">Our History</a></li>
                                             <li><a href="{{url('/admission-procedure')}}">Admission</a></li>
+                                            <li><a href="{{url('/fee-structure')}}">Fee Structure</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="#">Downloads</a>
-                                        <div class="megamenu">
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="{{url('/latest-news')}}">School News</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="{{url('/letters')}}">Tenders and Application Letters</a></li>
-                                            </ul>
-                                            <ul class="single-mega cn-col-4">
-                                                <li><a href="{{url('/fee-paid')}}">Fee Structure</a></li>
-                                            </ul>
-                                            <div class="single-mega cn-col-4">
-                                                <img src="img/bg-img/bg-1.jpg" alt="">
-                                            </div>
-                                        </div>
+                                    <li><a href="#">Important</a>
+                                        <ul class="dropdown">
+                                            <li><a href="{{url('/download-letters')}}">Downloads</a></li>
+                                        </ul>
                                     </li>
                                     <li><a href="{{url('/courses-offered')}}">Our Courses</a></li>
-                                    <li><a href="{{url('/our-gallery')}}">Portfolio</a></li>
+                                    <li><a href="{{url('/our-gallery')}}">Gallery</a></li>
                                     <li><a href="{{url('/contact-us')}}">Contact Us</a></li>
                                 </ul>
                             </div>
@@ -143,7 +133,7 @@
                                 <ul class="useful-links">
                                     <li><a href="{{url('/')}}">Home Page</a></li>
                                     <li><a href="{{url('/courses-offered')}}">Courses Offered</a></li>
-                                    <li><a href="{{url('/fee-paid')}}">Fee Structure</a></li>
+                                    <li><a href="{{url('/fee-structure')}}">Fee Structure</a></li>
                                     <li><a href="{{url('/admission-procedure')}}">Admission Requirements</a></li>
                                 </ul>
                             </nav>

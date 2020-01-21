@@ -24,16 +24,16 @@ Route::get('/contact-us', function () {
     return view('contact-us');
 });
 
-Route::get('/fee-paid', function () {
-    return view('fee-paid');
+Route::get('/fee-structure', function () {
+    return view('fee-structure');
 });
 
 Route::get('/college-history', function () {
     return view('college-history');
 });
 
-Route::get('/letters', function () {
-    return view('letters');
+Route::get('/download-letters', function () {
+    return view('download-letters');
 });
 
 Route::get('/latest-news', function () {
